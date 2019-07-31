@@ -4,12 +4,11 @@
 *.sql
 *.sqlite
 
-
 # pytest cache #
 ################
 .cache/*
 .pytest_cache/*
-
+__pycache__/
 
 # OS generated files #
 ######################
